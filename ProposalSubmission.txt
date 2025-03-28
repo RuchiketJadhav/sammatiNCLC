@@ -1,0 +1,20 @@
+Proposal Submission Page:
+
+Dropdown: “Proposal Type” (e.g., Research, Event, Budget—fetched from SharePoint)
+Dynamic Form: Fields update based on type (e.g., Research: Objectives, Methodology)
+
+Supervisor Dropdown:
+
+List of app users (filtered to supervisors)
+Buttons: “Save Draft” (optional), “Submit”
+Supervisor Dashboard:
+Table: List of pending proposals (columns: Title, Type, Proposer, Date Submitted)
+Action Buttons: “View Details,” “Approve,” “Reject”
+
+Registrar office
+
+
+
+	
+
+
